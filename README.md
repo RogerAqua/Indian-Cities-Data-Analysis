@@ -1,4 +1,4 @@
-# Indian Cities Data Analysis Using MS Excel
+# Indian Cities Dataset Analysis Using MS Excel
 # Introduction
 This project aims to conduct a comprehensive demographic and educational analysis of the top cities in India. The dataset provides insights into key parameters such as population, literacy rates, sex ratios, and educational attainment across various states. The goal is to derive actionable insights that can inform infrastructure planning, resource allocation, and policy-making decisions.
 
