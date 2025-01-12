@@ -1,4 +1,4 @@
-# Indian-Cities-Data-Analysis
+# Indian Cities Data Analysis Using MS Excel
 # Introduction
 This project aims to conduct a comprehensive demographic and educational analysis of the top 500 cities in India. The dataset provides insights into key parameters such as population, literacy rates, sex ratios, and educational attainment across various states. The goal is to derive actionable insights that can inform infrastructure planning, resource allocation, and policy-making decisions.
 
@@ -8,14 +8,14 @@ The objective of this analysis is to identify key demographic and educational tr
 # Key Analysis Areas
 Several key parameters were analyzed to provide a comprehensive understanding of demographic and educational trends:
 
-• Population Analysis
-• Literacy Rate Comparison
-• Top 10 Cities with High Literacy Rate
-• Sex Ratio Analysis
-• Graduate Percentage Analysis
-• Cities in Top 500 Global Rankings
-• Additional Insights
-• Correlation Analysis
+• Population Analysis</br>
+• Literacy Rate Comparison</br>
+• Top 10 Cities with High Literacy Rate</br>
+• Sex Ratio Analysis</br>
+• Graduate Percentage Analysis</br>
+• Cities in Top 500 Global Rankings</br>
+• Additional Insights</br>
+• Correlation Analysis</br>
 
 # Conclusion
 This analysis of demographic and educational data has provided valuable insights into population distribution, literacy rates, and educational attainment across India. These findings will help inform strategic planning and policy decisions, driving better resource allocation and infrastructure development to promote balanced growth.
